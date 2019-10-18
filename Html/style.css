@@ -1,0 +1,35 @@
+.ctm-portfolio .active {
+  color:red
+}
+
+.ctm-portfolio .Cplaceholder {
+    border: 1px solid #ddd;
+    padding: 5px 9px;
+    border-radius: 5px;
+    width: 100px;
+}
+.ctm-portfolio ul.filter {
+    list-style: none;
+    padding :0;
+    list-style: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 0;
+    width: 100px;
+    position: absolute;
+    background: #fff;
+}
+.ctm-portfolio ul.filter li {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+    padding: 5px 5px;
+}
+
+.ctm-portfolio ul.filter li:hover {
+    background: #ddd;
+}
+.ctm-portfolio-item div {
+    display: inline-block;
+}
